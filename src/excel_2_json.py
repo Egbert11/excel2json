@@ -2,7 +2,6 @@
 #-*- coding: utf-8 -*-
 
 # function: 将Excel文件转换为json文件
-# author: jmhuang@corp.netease.com
 # create_time: 2019/2/15
 
 import sys
